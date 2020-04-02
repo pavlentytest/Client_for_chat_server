@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebSocketChatClient</string>
+    <string name="action_settings">Настройки</string>
+    <string name="title">Пользователи</string>
+</resources>
